@@ -2,11 +2,11 @@
 External C# Retcheck bypass by DeepPain
 
 
-Known Problems:
-1. Any lua functions using a JB opcode for stuff not concerning retcheck will get turned into a JA opcode instead
+## Known problems
+Any lua functions using a JB opcode for stuff not concerning retcheck will get turned into a JA opcode instead
 
 
-Usage:
+## Usage
 
 1.Call PatchJBs(<FUNCTION_ADDRESS>);
 
