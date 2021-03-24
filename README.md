@@ -1,5 +1,5 @@
 # CSharp-RetCheck-Bypass
-Bypass Roblox's RetCheck Externally In C#
+External C# Retcheck bypass by DeepPain
 
 
 Known Problems:
